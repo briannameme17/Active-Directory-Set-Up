@@ -12,9 +12,11 @@ This project demonstrates how to deploy a basic Active Directory environment in 
   
 ![Resource Group](Images/ResourceGroup.png)
 ![VM Setup](Images/VM.png)  
+![Virtual Network](Images/Virtual network.png)
 ![Server Configuration](Images/Server.png)
-![Create a Organizational Unit](Images/OU.png)
 ![Static IP](Images/Static.png)
-![Domain Controller Setup](Images/domaincontrollerinstall.png)*
+![Create a Organizational Unit](Images/OU.png)
+![Domain Controller Setup](Images/domain controller install.png)
+-
 
 ---
