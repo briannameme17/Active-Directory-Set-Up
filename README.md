@@ -8,14 +8,6 @@ This project demonstrates how to deploy Active Directory environment in Microsof
 4. Configured Client-1 DNS settings to point to DC-1 and ensured both machines were on the same network  
 5. Verified connectivity by running `ipconfig /all` in PowerShell on Client-1 to confirm it was connected to the Domain Controller and using the correct DNS settings   
 
-![Resource Group](Images/resource.png)
-![VM Setup](Images/VM.png)  
-![Virtual Network](Images/vn.png)
-![Server Configuration](Images/Server.png)
-![Static IP](Images/Static.png)
-![Client-1 Remote Desktop Connection](Images/client.png)
-![DC-1 Remote Desktop Connection](Images/dc.png)
-![PowerShell](Images/check.png)
 
 <img src="Images/resource.png" width="500">
 <img src="Images/VM.png" width="500">  
