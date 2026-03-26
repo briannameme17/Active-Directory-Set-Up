@@ -3,15 +3,18 @@ This project demonstrates how to deploy a basic Active Directory environment in 
 
 ## Steps Taken  
 1. Created a Resource Group and Virtual Network in Microsoft Azure to organize and connect all resources  
-2. Deployed a Virtual Machine named **DC-1** using Windows Server 2025 Datacenter and configured the server settings
-3. Created a Client VM **Client-1**, connected it to the same network, configured DNS, and verified communication between both machines    
-4. Set the Domain Controller’s private IP address to static to ensure reliable communication and DNS functionality  
-5. Installed Active Directory Domain Services and promoted DC-1 to a Domain Controller by creating a new domain  
+3. Set the Domain Controller’s private IP address to static to ensure reliable communication and DNS functionality  
+4. Installed Active Directory Domain Services and promoted DC-1 to a Domain Controller by creating a new domain  
+5. Created and organized Active Directory structure by setting up Organizational Units and user accounts  
+   - Created an OU named **_EMPLOYEES**  
+   - Created an OU named **_ADMINS**  
+   - Created a Domain Admin user (Jane Doe) and assigned appropriate permissions  
   
-![Resource Group](Images/ResourceGroup.png)
+![Resource Group](Images/Resource group.png)
 ![VM Setup](Images/VM.png)  
 ![Create a Organizational Unit](Images/OU.png)
 ![Server Configuration](Images/Server.png)
 ![Static IP](Images/Static.png)
-![Domain Controller Setup](Images/domaincontrollerinstall.png)*
+![Domain Controller Setup](Images/Domain controller install.png)*
+
 ---
