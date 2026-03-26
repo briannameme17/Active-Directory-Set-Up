@@ -10,11 +10,11 @@ This project demonstrates how to deploy a basic Active Directory environment in 
    - Created an OU named **_ADMINS**  
    - Created a Domain Admin user (Jane Doe) and assigned appropriate permissions  
   
-![Resource Group](Images/Resource group.png)
+![Resource Group](Images/ResourceGroup.png)
 ![VM Setup](Images/VM.png)  
-![Create a Organizational Unit](Images/OU.png)
 ![Server Configuration](Images/Server.png)
+![Create a Organizational Unit](Images/OU.png)
 ![Static IP](Images/Static.png)
-![Domain Controller Setup](Images/Domain controller install.png)*
+![Domain Controller Setup](Images/domaincontrollerinstall.png)*
 
 ---
