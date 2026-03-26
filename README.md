@@ -18,7 +18,7 @@ This project demonstrates how to deploy a basic Active Directory environment in 
 
 4. Installed Active Directory Domain Services and promoted DC-1 to a Domain Controller by creating a new domain  
 
-![Domain Controller Setup](images/domaincontrollerinstall.png)
+*![Domain Controller Setup](images/domaincontrollerinstall.png)*
 
 5. Created a Client VM (Client-1), connected it to the same network, configured DNS, and verified communication between both machines  
 
