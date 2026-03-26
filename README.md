@@ -1,7 +1,4 @@
 # Active Directory Setup in Microsoft Azure  
-**Domain Controller (DC-1) + Client VM (Client-1)**  
-
-## Overview  
 This project demonstrates how to deploy a basic Active Directory environment in Microsoft Azure by creating a Domain Controller (DC-1) using Windows Server 2025 Datacenter and a client machine (Client-1). The setup includes configuring networking, assigning a static IP, installing Active Directory Domain Services, and validating connectivity between systems.  
 
 ## Steps Taken  
