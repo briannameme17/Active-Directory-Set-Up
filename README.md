@@ -1,5 +1,5 @@
 # Active Directory Infrastructure in Microsoft Azure  
-This project demonstrates how to deploy a basic Active Directory environment in Microsoft Azure by creating a Domain Controller (DC-1) using Windows Server 2025 Datacenter and a client machine (Client-1). The setup includes configuring networking, assigning a static IP, installing Active Directory Domain Services, and validating connectivity between systems.  
+This project demonstrates how to deploy Active Directory environment in Microsoft Azure by creating a Domain Controller (DC-1) using Windows Server 2025 Datacenter and a client machine (Client-1). The setup includes configuring networking, assigning a static IP, and validating connectivity between systems.  
 
 ## Steps Taken  
 1. Created a Resource Group and Virtual Network in Microsoft Azure to organize and connect all resources  
