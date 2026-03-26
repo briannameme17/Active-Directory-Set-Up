@@ -17,6 +17,14 @@ This project demonstrates how to deploy Active Directory environment in Microsof
 ![DC-1 Remote Desktop Connection](Images/dc.png)
 ![PowerShell](Images/check.png)
 
+<img src="Images/resource.png" width="500">
+<img src="Images/VM.png" width="500">  
+<img src="Images/vn.png" width="500">
+<img src="Images/Server.png" width="500">
+<img src="Images/Static.png" width="500">
+<img src="Images/client.png" width="500">
+<img src="Images/dc.png" width="500">
+<img src="Images/check.png" width="500">
 -
 
 ---
