@@ -1,4 +1,3 @@
-# Active-Directory-Set-Up
 # Active Directory Setup in Microsoft Azure  
 **Domain Controller (DC-1) + Client VM (Client-1)**  
 
